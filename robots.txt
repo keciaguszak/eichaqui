@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mediquohx.datasphere.space/sitemap.xml
